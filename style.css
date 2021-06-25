@@ -91,4 +91,9 @@ button, button:focus {
   padding: 0 1rem;
 }
 
+#special-price .grid .grid-item {
+  margin-right: 1.2rem;
+  margin-top: 1rem;
+}
+
 /*# sourceMappingURL=style.css.map */
